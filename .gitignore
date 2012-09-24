@@ -8,9 +8,20 @@
 # Java class files
 *.class
 
+# Golang files
+*.6
+*.8
+
+# Ctags files
+tag
+tags
+TAG
+TAGS
+
 # generated files
 bin/
 gen/
+pkg
 
 # Local configuration file (sdk path, etc)
 local.properties
